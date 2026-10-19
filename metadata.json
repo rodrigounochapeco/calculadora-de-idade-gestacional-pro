@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Idade Gestacional Pro",
+  "description": "Estação clínica obstétrica de alta precisão para cálculo de idade gestacional por DUM, USG e AU, com critérios ACOG 700, IMC Atalah e cronograma gestacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
